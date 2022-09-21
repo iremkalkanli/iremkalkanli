@@ -4,9 +4,9 @@
 </p> 
 <p align= "center">
    <a href="https://www.linkedin.com/in/irem-kalkanlı/"><img alt="İrem's LinkedIn Profile" src="icons8-linkedin-512.png" width="45" height="45"></a>
-   <a href="https://www.youtube.com/channel/UCbY5z2oST7yUE62pOZ9xs1w"><img alt="İrem's Youtube Channel" src="https://img.icons8.com/nolan/64/youtube-play.png" width="45" height="45"></a>
-     <a href="https://medium.com/@kalkanlirem"><img alt="İrem's Medium Account" src="https://img.icons8.com/nolan/64/medium-new.png" width="45" height="45"></a>
- <a href="https://www.youtube.com/channel/UCbY5z2oST7yUE62pOZ9xs1w"><img alt="İrem's Youtube Channel" src="https://img.icons8.com/nolan/64/youtube-play.png" width="45" height="45"></a>
+   <a href="http://iremkalkanli.ml"><img alt="İrem's WordPress Site" src="icons8-wordpress-512.png" width="45" height="45"></a>
+     <a href="https://medium.com/@kalkanlirem"><img alt="İrem's Medium Account" src="icons8-medium-new-512.png" width="45" height="45"></a>
+ <a href="https://www.youtube.com/channel/UCbY5z2oST7yUE62pOZ9xs1w"><img alt="İrem's Youtube Channel" src="icons8-youtube-512.png" width="45" height="45"></a>
  </p>
 <p align="center">
  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=iremkalkanli&theme=github-dark-blue&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&background=00000000" alt="Typing SVG" /></a>
