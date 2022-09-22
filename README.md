@@ -1,6 +1,6 @@
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=100&color=628FDB&center=true&width=435&lines=Hi%2C+I+am+%C4%B0rem+Kalkanl%C4%B1!;Welcome+to+my+Github!;I+am+a+newbie+FPGA+developer;And+an+eager+learner!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=100&color=628FDB&center=true&width=435&lines=Hi%2C+I+am+%C4%B0rem+Kalkanl%C4%B1!;Welcome+to+my+Github!;I+am+a+newbie+FPGA+developer;I+am+also+interested+topics+like;quantum+information+and+computing." alt="Typing SVG" /></a>
 </p> 
 <p align= "center">
    <a target="_blank" href="https://www.linkedin.com/in/irem-kalkanlı/"><img alt="İrem's LinkedIn Profile" src="icons8-linkedin-512.png" width="45" height="45"></a>
