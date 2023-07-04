@@ -4,33 +4,12 @@
 </p> 
 <p align= "center">
    <a target="_blank" href="https://www.linkedin.com/in/irem-kalkanlı/"><img alt="İrem's LinkedIn Profile" src="icons8-linkedin-512.png" width="45" height="45"></a>
-   <a target="_blank" href="http://iremkalkanli.ml"><img alt="İrem's WordPress Site" src="icons8-wordpress-512.png" width="45" height="45"></a>
    <a target="_blank" href="https://medium.com/@kalkanlirem"><img alt="İrem's Medium Account" src="icons8-medium-new-512.png" width="45" height="45"></a>
    <a target="_blank" href="https://www.youtube.com/channel/UCbY5z2oST7yUE62pOZ9xs1w"><img alt="İrem's Youtube Channel" src="icons8-youtube-512.png" width="45" height="45"></a>
  </p>
 <p align="center">
  <h2>About Me:</h2>
 👋 Hello! I'm İrem Kalkanlı, a computer engineering graduate passionate about exploring cutting-edge technologies. My expertise lies in FPGA design, embedded systems, and Petalinux. I'm particularly intrigued by the fascinating world of quantum computing and communication. 💡
-
-<h2>Skills:</h2>
-💻 FPGA Design <br>
-💡 Embedded Systems <br>
-🐧 Petalinux <br>
-🔌 Computer Architecture 
-
-<h2>Interests:</h2>
-🌌 Quantum Computing <br>
-🚀 Quantum Communication <br>
-📈 Emerging Technologies
-
-<h2>Goals:</h2>
-🎯 Pushing the boundaries of computer engineering <br>
-🌐 Bridging theory and practical applications <br>
-🔬 Advancing the field of quantum technology <br>
-
-I'm excited to collaborate on innovative projects and contribute to the exciting realm of computer engineering and quantum tech. Let's shape the future together! 💪 <br>
-📫 Reach me at <a href = "mailto: kalkanlirem@gmail.com">kalkanlirem@gmail.com</a> <br>
-🌐 Find me on GitHub: <a href = "https://github.com/iremkalkanli">iremkalkanli</a>
 </p>
  
 <p align="center">
