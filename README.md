@@ -9,6 +9,32 @@
    <a target="_blank" href="https://www.youtube.com/channel/UCbY5z2oST7yUE62pOZ9xs1w"><img alt="İrem's Youtube Channel" src="icons8-youtube-512.png" width="45" height="45"></a>
  </p>
 <p align="center">
+ <h2>About Me:</h2>
+👋 Hello! I'm [Your Name], a computer engineering graduate passionate about exploring cutting-edge technologies. My expertise lies in FPGA design, embedded systems, and Petalinux. I'm particularly intrigued by the fascinating world of quantum computing and communication. 💡
+
+<h3>Skills:</h3>
+💻 FPGA Design
+💡 Embedded Systems
+🐧 Petalinux
+🔌 Computer Architecture
+
+<h3>Interests:</h3>
+🌌 Quantum Computing
+🚀 Quantum Communication
+📈 Emerging Technologies
+
+<h3>Goals:</h3>
+🎯 Pushing the boundaries of computer engineering
+🌐 Bridging theory and practical applications
+🔬 Advancing the field of quantum technology
+
+I'm excited to collaborate on innovative projects and contribute to the exciting realm of computer engineering and quantum tech. Let's shape the future together! 💪
+
+📫 Reach me at <a href = "mailto: kalkanlirem@gmail.com">kalkanlirem@gmail.com</a>
+🌐 Find me on GitHub: <a href = "https://github.com/iremkalkanli">iremkalkanli</a>
+</p>
+ 
+<p align="center">
  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=iremkalkanli&theme=github-dark-blue&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&background=00000000" alt="Typing SVG" /></a>
 </p>
 <p style="font-size:6px" align="center">
