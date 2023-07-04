@@ -13,24 +13,23 @@
 👋 Hello! I'm İrem Kalkanlı, a computer engineering graduate passionate about exploring cutting-edge technologies. My expertise lies in FPGA design, embedded systems, and Petalinux. I'm particularly intrigued by the fascinating world of quantum computing and communication. 💡
 
 <h2>Skills:</h2>
-💻 FPGA Design
-💡 Embedded Systems
-🐧 Petalinux
-🔌 Computer Architecture
+💻 FPGA Design <br>
+💡 Embedded Systems <br>
+🐧 Petalinux <br>
+🔌 Computer Architecture 
 
 <h2>Interests:</h2>
-🌌 Quantum Computing
-🚀 Quantum Communication
+🌌 Quantum Computing <br>
+🚀 Quantum Communication <br>
 📈 Emerging Technologies
 
 <h2>Goals:</h2>
-🎯 Pushing the boundaries of computer engineering
-🌐 Bridging theory and practical applications
-🔬 Advancing the field of quantum technology
+🎯 Pushing the boundaries of computer engineering <br>
+🌐 Bridging theory and practical applications <br>
+🔬 Advancing the field of quantum technology <br>
 
-I'm excited to collaborate on innovative projects and contribute to the exciting realm of computer engineering and quantum tech. Let's shape the future together! 💪
-
-📫 Reach me at <a href = "mailto: kalkanlirem@gmail.com">kalkanlirem@gmail.com</a>
+I'm excited to collaborate on innovative projects and contribute to the exciting realm of computer engineering and quantum tech. Let's shape the future together! 💪 <br>
+📫 Reach me at <a href = "mailto: kalkanlirem@gmail.com">kalkanlirem@gmail.com</a> <br>
 🌐 Find me on GitHub: <a href = "https://github.com/iremkalkanli">iremkalkanli</a>
 </p>
  
