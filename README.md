@@ -10,20 +10,20 @@
  </p>
 <p align="center">
  <h2>About Me:</h2>
-👋 Hello! I'm [Your Name], a computer engineering graduate passionate about exploring cutting-edge technologies. My expertise lies in FPGA design, embedded systems, and Petalinux. I'm particularly intrigued by the fascinating world of quantum computing and communication. 💡
+👋 Hello! I'm İrem Kalkanlı, a computer engineering graduate passionate about exploring cutting-edge technologies. My expertise lies in FPGA design, embedded systems, and Petalinux. I'm particularly intrigued by the fascinating world of quantum computing and communication. 💡
 
-<h3>Skills:</h3>
+<h2>Skills:</h2>
 💻 FPGA Design
 💡 Embedded Systems
 🐧 Petalinux
 🔌 Computer Architecture
 
-<h3>Interests:</h3>
+<h2>Interests:</h2>
 🌌 Quantum Computing
 🚀 Quantum Communication
 📈 Emerging Technologies
 
-<h3>Goals:</h3>
+<h2>Goals:</h2>
 🎯 Pushing the boundaries of computer engineering
 🌐 Bridging theory and practical applications
 🔬 Advancing the field of quantum technology
